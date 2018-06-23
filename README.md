@@ -8,7 +8,7 @@ Do a HTTP GET on https://colinccook.github.io/nutritional-information/regions.js
 
 (for instance, code "uk")
 
-You can then do a HTTP GET on https://colinccook.github.io/nutritional-information/uk/uk.json to get a list of  restaurants covered. Choose a code again.
+You can then do a HTTP GET on https://colinccook.github.io/nutritional-information/uk/restaurants.json to get a list of  restaurants covered. Choose a code again.
 
 (for instance, code "starbucks")
 
