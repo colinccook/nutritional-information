@@ -1,6 +1,32 @@
 [
     {
-        "title": "3 Chicken Wings"
+        "title": "3 Chicken Wings",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
         "title": "Houmous with PERi-PERi Drizzle"
@@ -24,124 +50,1112 @@
         "title": "Wing Roulette"
     },
     {
-        "title": "1/4 Chicken Breast"
+        "title": "1/4 Chicken Breast",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "1/4 Chicken Leg"
+        "title": "1/4 Chicken Leg",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "1/2 Chicken"
+        "title": "1/2 Chicken",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "5 Chicken Wings"
+        "title": "5 Chicken Wings",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "10 Chicken Wings"
+        "title": "10 Chicken Wings",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
         "title": "Wing Roulette"
     },
     {
-        "title": "Whole Chicken"
+        "title": "Whole Chicken",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Chicken Thighs"
+        "title": "Chicken Thighs",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Chicken Butterfly"
+        "title": "Chicken Butterfly",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Sunset Burger"
+        "title": "Sunset Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Butterfly Burger"
+        "title": "Butterfly Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Fino Pitta"
+        "title": "Fino Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Burger"
+        "title": "Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Pitta"
+        "title": "Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Wrap"
+        "title": "Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Burger"
+        "title": "Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Pitta"
+        "title": "Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Wrap"
+        "title": "Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Burger"
+        "title": "Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Pitta"
+        "title": "Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Wrap"
+        "title": "Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Burger"
+        "title": "Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Pitta"
+        "title": "Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Wrap"
+        "title": "Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Burger"
+        "title": "Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Pitta"
+        "title": "Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Wrap"
+        "title": "Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Burger"
+        "title": "Burger",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Pitta"
+        "title": "Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Wrap"
+        "title": "Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
         "title": "Veggie Cataplana"
     },
     {
-        "title": "Fillet Steak & Chargrilled Veg Pitta"
+        "title": "Fillet Steak & Chargrilled Veg Pitta",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Fillet Steak & Chargrilled Veg Wrap"
+        "title": "Fillet Steak & Chargrilled Veg Wrap",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Fillet Steak Prego Roll"
+        "title": "Fillet Steak Prego Roll",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Chicken Livers & Portuguese Roll"
+        "title": "Chicken Livers & Portuguese Roll",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Supergrain Salad"
+        "title": "Supergrain Salad",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Quinoa Salad"
+        "title": "Quinoa Salad",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Caesar Salad"
+        "title": "Caesar Salad",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Mediterranean Salad"
+        "title": "Mediterranean Salad",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
-        "title": "Mixed Leaf Salad"
+        "title": "Mixed Leaf Salad",
+        "products": [
+            {
+                "title": "Plain...(ish)",
+                "kcal": "280"
+            },
+            {
+                "title": "Mango & Lime",
+                "kcal": "280"
+            },
+            {
+                "title": "Lemon & Herb",
+                "kcal": "280"
+            },
+            {
+                "title": "Medium",
+                "kcal": "280"
+            },
+            {
+                "title": "Hot",
+                "kcal": "280"
+            },
+            {
+                "title": "Extra Hot",
+                "kcal": "280"
+            }
+        ]
     },
     {
         "title": "No Bones Platter"
