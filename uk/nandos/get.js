@@ -25,34 +25,39 @@ class Product {
 
     var result = [];
 
-    for (i in $$rmitems) {
-        const $title = await $$rmitems[i].$(".rm-item__title");
-        const title = await page.evaluate(el => el.innerText, $title);
+    try {
 
-        const product = new Product(title);
+        for (i in $$rmitems) {
+            const $title = await $$rmitems[i].$(".rm-item__title");
+            const title = await page.evaluate(el => el.innerText, $title);
 
-        const $showInformation = await $$rmitems[i].$(".show-information");
-        await $showInformation.click();
+            const product = new Product(title);
 
-        const $$sauces = await $$rmitems[i].$$(".dietary-info__sauce");
-        for (s in $$sauces) {
-            const sauceTitle = await page.evaluate(el => el.innerText, $$sauces[s])
-            const subproduct = new Product(sauceTitle);
+            const $showInformation = await $$rmitems[i].$(".show-information");
+            await $showInformation.click();
 
-            $$sauces[s].click();
+            await page.waitForSelector(".dietary-info.js--show.js--cloned");
+            const $dietaryInfo = await page.$(".dietary-info.js--show.js--cloned");
 
-            //const $kcal = await page.$('.info-listing__value+.info-listing__copy[attribute^="Energy (kcal)"]');
-            const $kcal = await page.$('.info-listing__value');
-            const kcal = await page.evaluate(el => el.innerText, $kcal)
+            const $$sauces = await $dietaryInfo.$$(".dietary-info__sauce");
+            for (s in $$sauces) {
+                const sauceTitle = await page.evaluate(el => el.innerText, $$sauces[s])
+                const subproduct = new Product(sauceTitle);
 
-            subproduct.setKcal(kcal);
+                await $$sauces[s].click();
 
-            product.addChildProduct(subproduct);
+                const $kcal = await $dietaryInfo.$('.info-listing__value');
+                const kcal = await page.evaluate(el => el.innerText, $kcal);
+                subproduct.setKcal(kcal);
 
+                product.addChildProduct(subproduct);
+            }
 
+            result.push(product);
         }
-
-        result.push(product);
+    }
+    catch (error) {
+        console.log("Could not do one");
     }
 
     await browser.close();
