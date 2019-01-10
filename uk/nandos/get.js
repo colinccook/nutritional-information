@@ -25,9 +25,9 @@ class Product {
 
     var result = [];
 
-    try {
+    for (i in $$rmitems) {
+        try {
 
-        for (i in $$rmitems) {
             const $title = await $$rmitems[i].$(".rm-item__title");
             const title = await page.evaluate(el => el.innerText, $title);
 
@@ -49,15 +49,16 @@ class Product {
                 const $kcal = await $dietaryInfo.$('.info-listing__value');
                 const kcal = await page.evaluate(el => el.innerText, $kcal);
                 subproduct.setKcal(kcal);
-
+            
                 product.addChildProduct(subproduct);
             }
 
             result.push(product);
         }
-    }
-    catch (error) {
-        console.log("Could not do one");
+
+        catch (error) {
+            console.log("Could not do one");
+        }
     }
 
     await browser.close();
